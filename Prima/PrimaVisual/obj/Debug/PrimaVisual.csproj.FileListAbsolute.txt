@@ -1,0 +1,15 @@
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\bin\Debug\PrimaVisual.exe.config
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\bin\Debug\PrimaVisual.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\bin\Debug\PrimaVisual.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\bin\Debug\Prima.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\bin\Debug\Prima.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\MainWindow.baml
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\MainWindow.g.cs
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\App.g.cs
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual_MarkupCompile.cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.g.resources
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.Properties.Resources.resources
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.csproj.GenerateResource.Cache
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\PrimaVisual\obj\Debug\PrimaVisual.pdb

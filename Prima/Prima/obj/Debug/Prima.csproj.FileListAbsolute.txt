@@ -1,0 +1,21 @@
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\bin\Debug\Prima.exe.config
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\obj\Debug\Prima.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\bin\Debug\Prima.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\bin\Debug\Prima.pdb
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\obj\Debug\Prima.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Prima\Prima\obj\Debug\Prima.pdb
+C:\Users\Viktor\Desktop\Prima\Prima\bin\Debug\Prima.exe.config
+C:\Users\Viktor\Desktop\Prima\Prima\obj\Debug\Prima.exe
+C:\Users\Viktor\Desktop\Prima\Prima\obj\Debug\Prima.pdb
+C:\Users\Viktor\Desktop\Prima\Prima\bin\Debug\Prima.exe
+C:\Users\Viktor\Desktop\Prima\Prima\bin\Debug\Prima.pdb
+C:\Users\Viktor\Desktop\Prima\Prima\obj\Debug\Prima.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Prima\Prima\bin\Debug\Prima.exe.config
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Prima\Prima\obj\Debug\Prima.exe
+C:\Users\Viktor\Desktop\DorogoyLab1WithUpdated\Prima\Prima\obj\Debug\Prima.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\bin\Debug\Prima.exe.config
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\obj\Debug\Prima.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\obj\Debug\Prima.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\bin\Debug\Prima.exe
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\bin\Debug\Prima.pdb
+C:\Users\HOUSE\Dropbox\FromLaptop\DorogoyLab1WithUpdated\Prima\Prima\obj\Debug\Prima.csprojResolveAssemblyReference.cache
